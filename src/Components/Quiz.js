@@ -1,4 +1,4 @@
-const QUESTIONS = [
+export const QUESTIONS = [
   {
     question: "What is 2*(4+4)?",
     answers: ["2", "4", "8", "16"],
